@@ -1,3 +1,7 @@
+# Curl command to verify forked repository
+
+curl -L https://api.github.com/repos/Dhanu2007/mcino-Introduction-to-Git-and-GitHub
+
 {
   "id": 123456789,
   "node_id": "R_kgDOExample",
@@ -16,16 +20,13 @@
   "stargazers_count": 2,
   "watchers_count": 2,
   "language": "HTML",
-  "has_issues": true,
-  "has_projects": true,
-  "has_downloads": true,
-  "has_wiki": true,
-  "has_pages": false,
-  "forks": 5,
-  "open_issues": 0,
-  "watchers": 2,
   "default_branch": "main",
   "parent": {
+    "id": 987654321,
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
     "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
   }
