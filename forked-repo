@@ -1,0 +1,32 @@
+{
+  "id": 123456789,
+  "node_id": "R_kgDOExample",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "Dhanu2007/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "Dhanu2007",
+    "id": 987654321
+  },
+  "html_url": "https://github.com/Dhanu2007/mcino-Introduction-to-Git-and-GitHub",
+  "description": "Forked repository for GitHub learning",
+  "fork": true,
+  "url": "https://api.github.com/repos/Dhanu2007/mcino-Introduction-to-Git-and-GitHub",
+  "forks_count": 5,
+  "stargazers_count": 2,
+  "watchers_count": 2,
+  "language": "HTML",
+  "has_issues": true,
+  "has_projects": true,
+  "has_downloads": true,
+  "has_wiki": true,
+  "has_pages": false,
+  "forks": 5,
+  "open_issues": 0,
+  "watchers": 2,
+  "default_branch": "main",
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
